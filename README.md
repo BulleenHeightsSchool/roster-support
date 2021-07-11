@@ -1,2 +1,4 @@
 # roster-support
-This repository contains some help and support for trial runs of the rostering program.
+This repository contains some help and support content for trial runs of the rostering program.
+
+[Open the Wiki](./wiki)
